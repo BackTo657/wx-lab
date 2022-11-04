@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 title: An example journal article
 doi: ""
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
@@ -36,9 +36,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
