@@ -1,8 +1,7 @@
 ---
 title: Nelson Bighetti
 role: Now @ SCU
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -11,9 +10,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 education:
   courses:
     - course: BSc in Artificial Intelligence
