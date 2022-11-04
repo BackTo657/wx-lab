@@ -20,7 +20,7 @@ email: ""
 superuser: true
 user_groups:
   - Researchers
-  - Alumi
+  - Alumni
 highlight_name: false
 ---
 
